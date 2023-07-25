@@ -1,0 +1,31 @@
+h1 {
+    background: red;
+}
+
+
+.paragraph-1 {
+    font-size: 24pt;
+    text-align: center;
+    font-style: oblique;
+    text-shadow: green 2px 5px;
+}
+.paragraph-2 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph-3 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.paragraph-4 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Courier New;
+}
